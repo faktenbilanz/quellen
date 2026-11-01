@@ -1,5 +1,7 @@
 ---
 layout: default
+quelle: true
+ab: "2026-11-06T15:00:00Z"
 title: "Quellen: Ist KI eine Blase?"
 permalink: /ki/
 ---

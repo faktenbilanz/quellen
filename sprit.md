@@ -1,5 +1,6 @@
 ---
 layout: default
+quelle: true
 title: "Quellen: Der Sprit-Check"
 permalink: /sprit/
 ---
