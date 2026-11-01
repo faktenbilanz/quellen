@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Faktenbilanz</title>
+  <meta name="description" content="Quellen zu den Videos von Faktenbilanz – Nachgerechnet. Belegt.">
+  <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/icon.png' | relative_url }}">
+  <meta property="og:image" content="{{ '/assets/icon.png' | absolute_url }}">
+  <style>
+    :root { --papier: #F4EFE6; --tinte: #25232B; --gold: #F0B23A; --grau: #6E6A73; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--papier); color: var(--tinte); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    header { background: var(--tinte); padding: 12px 16px; }
+    header .innen, main { max-width: 860px; margin: 0 auto; }
+    header .innen { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    header img { height: 64px; width: auto; display: block; }
+    header a.kanal { color: var(--gold); font-weight: 700; text-decoration: none; white-space: nowrap; }
+    main { padding: 24px 16px 48px; overflow-wrap: anywhere; }
+    h1 { line-height: 1.2; }
+    a { color: #8A5A00; }
+    hr { border: 0; border-top: 2px solid var(--tinte); opacity: .15; margin: 28px 0; }
+    footer { text-align: center; color: var(--grau); font-size: 14px; padding: 0 16px 32px; }
+  </style>
+</head>
+<body>
+  <header><div class="innen">
+    <a href="https://www.youtube.com/@faktenbilanz"><img src="{{ '/assets/wortmarke.png' | relative_url }}" alt="Faktenbilanz – Nachgerechnet. Belegt."></a>
+    <a class="kanal" href="https://www.youtube.com/@faktenbilanz">▶ Zum Kanal</a>
+  </div></header>
+  <main>{{ content }}</main>
+  <footer><a href="{{ '/' | relative_url }}">Alle Quellenseiten</a> · <a href="https://www.youtube.com/@faktenbilanz">YouTube @faktenbilanz</a></footer>
+</body>
+</html>

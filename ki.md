@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Quellen: Ist KI eine Blase?"
 permalink: /ki/
 ---
