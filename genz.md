@@ -143,25 +143,25 @@ Fehler gefunden? Schreib es in die Kommentare unter dem Video – Korrekturen st
 
 Alle Fotos von Wikimedia Commons, bearbeitet (zugeschnitten, skaliert).
 
-- GenZ protest against government in chitwan(1), 8 september 2025.jpg – हिमाल सुवेदी, CC0 – https://commons.wikimedia.org/wiki/File:GenZ_protest_against_government_in_chitwan(1),_8_september_2025.jpg
-- Manifestations de la Génération Z du 25 septembre 2025 à Madagascar.jpg – Gen Z Madagasikara, CC BY 4.0 – https://commons.wikimedia.org/wiki/File:Manifestations_de_la_G%C3%A9n%C3%A9ration_Z_du_25_septembre_2025_%C3%A0_Madagascar.jpg
-- Blockade of the Bulgarian parliament.jpg – Chukanovich, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Blockade_of_the_Bulgarian_parliament.jpg
-- 2024 Bangladesh quota reform movement Poster.png – Sharahdraws, CC0 – https://commons.wikimedia.org/wiki/File:2024_Bangladesh_quota_reform_movement_Poster.png
-- Bulgarian protests on 1 December 2025 (Cropped).png – Zerga (@Zerga), CC BY 3.0 – https://commons.wikimedia.org/wiki/File:Bulgarian_protests_on_1_December_2025_(Cropped).png
-- Protest 22. dec 2024 na Slaviji VOA.jpg – Stefan Miljuš (VOA/Glas Amerike), Public domain (PD-USGov-VOA) – https://commons.wikimedia.org/wiki/File:Protest_22._dec_2024_na_Slaviji_VOA.jpg
-- Smokes, fire and a flag.jpg – Cyberneticboylol, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Smokes,_fire_and_a_flag.jpg
-- 2025 Nepalese Gen Z protesters infront of Bharatpur mahanagarpalika office.jpg – हिमाल सुवेदी (Himal Subedi), CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg
-- Students Protest at Polda Metro Jaya.jpg – Efraimleonard, CC0 – https://commons.wikimedia.org/wiki/File:Students_Protest_at_Polda_Metro_Jaya.jpg
-- Belgrade protests 2025-01-24 - 4.jpg – Emilija Knezevic, CC BY 4.0 – https://commons.wikimedia.org/wiki/File:Belgrade_protests_2025-01-24_-_4.jpg
-- Marcha de la "Generación Z", 15 de Noviembre - 54931802692.jpg – Eneas De Troya, CC BY 4.0 – https://commons.wikimedia.org/wiki/File:Marcha_de_la_%22Generaci%C3%B3n_Z%22,_15_de_Noviembre_-_54931802692.jpg
-- Protestas de la Generación Z en Perú del 2025 29.jpg – QM Keen, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Protestas_de_la_Generaci%C3%B3n_Z_en_Per%C3%BA_del_2025_29.jpg
-- Studentski protest Novi Sad 2025-02-01 - 10.jpg – Никола Ђорђевић, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Studentski_protest_Novi_Sad_2025-02-01_-_10.jpg
-- 7.Bangladesh quota reform movement 2024.jpg – Rayhan Ahmed, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:7.Bangladesh_quota_reform_movement_2024.jpg
-- GenZ 212 demonstrations in Rabat 14.jpg – Mounir Neddi, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:GenZ_212_demonstrations_in_Rabat_14.jpg
-- Studentski protest Slavija 22 12 2024 02.jpg – Никола Ђорђевић, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Studentski_protest_Slavija_22_12_2024_02.jpg
-- AC SO Gen Z Demo WIDERSTAND E-Brunnen 31.10.2026.jpg – Grunpfnul, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:AC_SO_Gen_Z_Demo_WIDERSTAND_E-Brunnen_31.10.2026.jpg
-- Trillion Peso March (Straw Hat Pirates Flag).jpg – RFNirmala, CC BY 4.0 – https://commons.wikimedia.org/wiki/File:Trillion_Peso_March_(Straw_Hat_Pirates_Flag).jpg
-- Paris riots, 17 October 2026 - Crowd outside a looted shop - JJxFile 0020.jpg – Jorge Jaramillo, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Crowd_outside_a_looted_shop_-_JJxFile_0020.jpg
+- [GenZ protest against government in chitwan(1), 8 september 2025](https://commons.wikimedia.org/wiki/File:GenZ_protest_against_government_in_chitwan%281%29,_8_september_2025.jpg) – हिमाल सुवेदी, CC0
+- [Manifestations de la Génération Z du 25 septembre 2025 à Madagascar](https://commons.wikimedia.org/wiki/File:Manifestations_de_la_G%C3%A9n%C3%A9ration_Z_du_25_septembre_2025_%C3%A0_Madagascar.jpg) – Gen Z Madagasikara, CC BY 4.0
+- [Blockade of the Bulgarian parliament](https://commons.wikimedia.org/wiki/File:Blockade_of_the_Bulgarian_parliament.jpg) – Chukanovich, CC BY-SA 4.0
+- [2024 Bangladesh quota reform movement Poster](https://commons.wikimedia.org/wiki/File:2024_Bangladesh_quota_reform_movement_Poster.png) – Sharahdraws, CC0
+- [Bulgarian protests on 1 December 2025 (Cropped)](https://commons.wikimedia.org/wiki/File:Bulgarian_protests_on_1_December_2025_%28Cropped%29.png) – Zerga (@Zerga), CC BY 3.0
+- [Protest 22. dec 2024 na Slaviji VOA](https://commons.wikimedia.org/wiki/File:Protest_22._dec_2024_na_Slaviji_VOA.jpg) – Stefan Miljuš (VOA/Glas Amerike), Public domain (PD-USGov-VOA)
+- [Smokes, fire and a flag](https://commons.wikimedia.org/wiki/File:Smokes,_fire_and_a_flag.jpg) – Cyberneticboylol, CC BY-SA 4.0
+- [2025 Nepalese Gen Z protesters infront of Bharatpur mahanagarpalika office](https://commons.wikimedia.org/wiki/File:2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg) – हिमाल सुवेदी (Himal Subedi), CC BY-SA 4.0
+- [Students Protest at Polda Metro Jaya](https://commons.wikimedia.org/wiki/File:Students_Protest_at_Polda_Metro_Jaya.jpg) – Efraimleonard, CC0
+- [Belgrade protests 2025-01-24 - 4](https://commons.wikimedia.org/wiki/File:Belgrade_protests_2025-01-24_-_4.jpg) – Emilija Knezevic, CC BY 4.0
+- [Marcha de la "Generación Z", 15 de Noviembre - 54931802692](https://commons.wikimedia.org/wiki/File:Marcha_de_la_%22Generaci%C3%B3n_Z%22,_15_de_Noviembre_-_54931802692.jpg) – Eneas De Troya, CC BY 4.0
+- [Protestas de la Generación Z en Perú del 2025 29](https://commons.wikimedia.org/wiki/File:Protestas_de_la_Generaci%C3%B3n_Z_en_Per%C3%BA_del_2025_29.jpg) – QM Keen, CC BY-SA 4.0
+- [Studentski protest Novi Sad 2025-02-01 - 10](https://commons.wikimedia.org/wiki/File:Studentski_protest_Novi_Sad_2025-02-01_-_10.jpg) – Никола Ђорђевић, CC BY-SA 4.0
+- [7.Bangladesh quota reform movement 2024](https://commons.wikimedia.org/wiki/File:7.Bangladesh_quota_reform_movement_2024.jpg) – Rayhan Ahmed, CC BY-SA 4.0
+- [GenZ 212 demonstrations in Rabat 14](https://commons.wikimedia.org/wiki/File:GenZ_212_demonstrations_in_Rabat_14.jpg) – Mounir Neddi, CC BY-SA 4.0
+- [Studentski protest Slavija 22 12 2024 02](https://commons.wikimedia.org/wiki/File:Studentski_protest_Slavija_22_12_2024_02.jpg) – Никола Ђорђевић, CC BY-SA 4.0
+- [AC SO Gen Z Demo WIDERSTAND E-Brunnen 31.10.2026](https://commons.wikimedia.org/wiki/File:AC_SO_Gen_Z_Demo_WIDERSTAND_E-Brunnen_31.10.2026.jpg) – Grunpfnul, CC BY-SA 4.0
+- [Trillion Peso March (Straw Hat Pirates Flag)](https://commons.wikimedia.org/wiki/File:Trillion_Peso_March_%28Straw_Hat_Pirates_Flag%29.jpg) – RFNirmala, CC BY 4.0
+- [Paris riots, 17 October 2026 - Crowd outside a looted shop - JJxFile 0020](https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Crowd_outside_a_looted_shop_-_JJxFile_0020.jpg) – Jorge Jaramillo, CC BY-SA 4.0
 ---
 
 ## Korrekturen
