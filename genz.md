@@ -162,6 +162,7 @@ Alle Fotos von Wikimedia Commons, bearbeitet (zugeschnitten, skaliert).
 - [AC SO Gen Z Demo WIDERSTAND E-Brunnen 31.10.2026](https://commons.wikimedia.org/wiki/File:AC_SO_Gen_Z_Demo_WIDERSTAND_E-Brunnen_31.10.2026.jpg) – Grunpfnul, CC BY-SA 4.0
 - [Trillion Peso March (Straw Hat Pirates Flag)](https://commons.wikimedia.org/wiki/File:Trillion_Peso_March_%28Straw_Hat_Pirates_Flag%29.jpg) – RFNirmala, CC BY 4.0
 - [Paris riots, 17 October 2026 - Crowd outside a looted shop - JJxFile 0020](https://commons.wikimedia.org/wiki/File:Paris_riots,_17_October_2026_-_Crowd_outside_a_looted_shop_-_JJxFile_0020.jpg) – Jorge Jaramillo, CC BY-SA 4.0
+
 ---
 
 ## Korrekturen
