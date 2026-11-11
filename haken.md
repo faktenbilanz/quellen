@@ -7,7 +7,7 @@ permalink: /haken/
 
 # Quellen: Hängen wir am Haken?
 
-Alle Quellen zum Video **„Hängen wir am Haken? Wie Apps uns festhalten – nachgerechnet“** auf [@faktenbilanz](https://www.youtube.com/@faktenbilanz). Die Nummern entsprechen den Quellenangaben im Video. Stand: 01.11.2026.
+Alle Quellen zum Video **„Hängen wir am Haken? Wie Apps uns festhalten – nachgerechnet“** auf [@faktenbilanz](https://www.youtube.com/@faktenbilanz). Die Nummern entsprechen den Quellenangaben im Video. Stand: 11.11.2026.
 
 Kennzeichnung: **[Primär]** = Originalquelle (Behörde, Gesetz, Gericht, Studie), **[Presse]** = Medienbericht oder Fachbeitrag.
 
@@ -97,9 +97,11 @@ Fehler gefunden? Schreib es in die Kommentare unter dem Video – Korrekturen st
 
 [42] Fitz, N., Kushlev, K., Jagannathan, R., Lewis, T., Paliwal, D. & Ariely, D.: „Batching smartphone notifications can improve well-being“, *Computers in Human Behavior* 101, 84–94, 2019 (randomisiertes Feldexperiment, n = 237; dreimal täglich gebündelt; selbstberichtetes Wohlbefinden). <https://doi.org/10.1016/j.chb.2019.07.016> [Primär]
 
-[43] Europäische Kommission: „Main initiatives 2026“ (Digital Fairness Act als Initiative 2026; kein fester Veröffentlichungstermin). <https://commission.europa.eu/strategy-and-policy/state-union/main-initiatives-2026_en> [Primär]
+[45] Europäische Kommission: Pressemitteilung IP/26/2407 „Commission strengthens consumer protection laws, making them fit for the digital age“, 11.11.2026 (Vorschlag Digital Fairness Act und CPC-Revision; bis zu 13,7 Mrd. € Einsparung/Jahr; Kommissionsbußgelder bis 6 %; nächste Schritte Parlament und Rat). <https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407> · PDF: <https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2407/IP_26_2407_EN.pdf> [Primär]
 
-[44] Taylor Wessing: „EU Digital Fairness Act: dark patterns and addictive designs“, Oktober 2026 (Inhalt und erwarteter Zeitpunkt – Prognose). <https://www.taylorwessing.com/en/insights-and-events/insights/2026/10/eu-digital-fairness-act-dark-patterns-and-addictive-designs> [Presse]
+[46] Europäische Kommission: „Questions and answers on the Consumer Package“, QANDA/26/2408, 11.11.2026 (Verordnung statt UGP-Richtlinie; Abschaltbarkeit von Autoplay und nicht nutzerbezogenen Benachrichtigungen; Kündigung, Gratis-Tests, menschlicher Kundenservice; Eingreifschwelle zwei Drittel der Mitgliedstaaten, keine KMU). <https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2408> · PDF: <https://ec.europa.eu/commission/presscorner/api/files/document/print/en/qanda_26_2408/QANDA_26_2408_EN.pdf> [Primär]
+
+[48] Europäische Kommission: Proposal for a Regulation on promoting fair business-to-consumer commercial practices in the offline and digital single market (Digital Fairness Act), COM(2026) 1100 final, 2026/0356 (COD), 11.11.2026 (u. a. Art. 10 Dark Patterns, Art. 14–16 virtuelle Währungen/Lootboxen/Pay-to-win, Art. 17 Suchtdesign – Abschaltwerkzeuge, Art. 20 Gratis-Tests, Art. 23 Online-Kündigungsfunktion, Art. 25 menschlicher Kundenservice, Art. 35 Sanktionen, Art. 40 Anwendung 12 Monate nach Inkrafttreten; Begründung S. 10: 13,7 Mrd. €/Jahr inkl. monetarisierter Zeitverluste). <https://commission.europa.eu/document/download/0575d59f-554f-4a9e-b54b-e6b717175809_en?filename=Proposal%20for%20a%20Digital%20Fairness%20Act_0.pdf> [Primär]
 
 ---
 
