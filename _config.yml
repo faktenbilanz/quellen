@@ -1,3 +1,5 @@
 title: Faktenbilanz – Quellen
 description: Nachgerechnet. Belegt.
 theme: jekyll-theme-primer
+exclude:
+  - README.md
